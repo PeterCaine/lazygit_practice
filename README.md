@@ -7,9 +7,7 @@ solution is to ssh when cloning
 
 
 # issues
-
-## pushing incorrect changes
-- how to retreive an incorrectly pushed file:
+1.  pushing incorrect changes (how to retreive an incorrectly pushed file)
   1. open a draft pull request
   2. see the file and panic
   3. move the file from local repo (same branch - put in dir out of the way - rename 'amended_file.ext')
